@@ -4,18 +4,19 @@
     }
     
     #quiz-container {
-        max-width: 800px;
+        max-width: 850px;
         margin: 0 auto;
         padding: 50px;
         background-color: #dbd5fa;
-        border: 5px solid #6349ad;
+        border: 5px solid #5d43a4;
+        border-width: 5px;
         border-style:double;
         border-radius: 15px;
     }
 
     .intro {
-        background: rgb(248, 237, 253);
-        max-width: 950px;
+        background: #e8e4fb;
+        max-width: 1000px;
         margin: 45px auto;
         box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
         border-radius: 16px;
@@ -42,7 +43,7 @@
     }
 
     body {
-        font-size: 17px;
+        font-size: 18px;
         padding: 50px;
     }
 
@@ -78,7 +79,8 @@
 
     #result {
         text-align: center;
-        color: #21163c;
+        text-shadow: 5px 5px 10px rgba(86, 26, 148, 0.4);
+        color: #4e1785;
         font-weight: bold;
         margin-top: 20px;
         font-size: 40px;
