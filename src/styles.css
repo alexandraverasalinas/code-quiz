@@ -8,32 +8,37 @@
         margin: 0 auto;
         padding: 50px;
         background-color: #dbd5fa;
-        border: 5px solid #ae99ce;
+        border: 5px solid #6349ad;
+        border-style:double;
         border-radius: 15px;
     }
 
     .intro {
-        background: rgb(136, 50, 50);
-    max-width: 600px;
-    margin: 45px auto;
-    box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
-    border-radius: 16px;
-    padding: 30px;
+        background: rgb(248, 237, 253);
+        max-width: 950px;
+        margin: 45px auto;
+        box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
+        border-radius: 16px;
+        padding: -10px;
+        border-style:double;
+        border-color: #6349ad;
     }
 
     h2 {
         text-align: center;
-        color: #261357;
+        text-shadow: 5px 5px 10px rgba(86, 26, 148, 0.4);
+        color: #561a94;
         font-size: 45px;
         font-family: 'Kanit', sans-serif;
     }
 
     h3 {
         text-align:center;
-        color: #462992;
+        font-size: 20px;
+        color: #712992;
         font-family: 'Poppins', sans-serif;
         margin-bottom: 50px;
-        margin-top: -20px;
+        margin-top: -30px;
     }
 
     body {
